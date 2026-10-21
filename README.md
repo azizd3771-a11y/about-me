@@ -8,3 +8,6 @@
 ## Дағдыларым
 - Java, Android Studio
 - Git және GitHub
+
+## Байланыс
+GitHub: azizd3771-a11y
